@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\MyForm.h(334,19): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\MyForm.h(339,20): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\MyForm.h(342,37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\MyForm.h(343,37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\MyForm.h(344,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\MyForm.h(331,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\MyForm.h(363,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\MyForm.h(367,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\MyForm.h(358,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\MyForm.h(391,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\MyForm.h(395,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\MyForm.h(384,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TechKurs.vcxproj -> C:\Users\Jencik4\source\repos\TechKurs\Debug\TechKurs.exe

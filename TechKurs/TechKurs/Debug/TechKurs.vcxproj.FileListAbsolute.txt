@@ -1,0 +1,3 @@
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\Debug\TechKurs.MyForm.resources
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\Debug\TechKurs.vcxproj.GenerateResource.cache
+C:\Users\Jencik4\source\repos\TechKurs\TechKurs\Debug\TechKurs.vcxproj.AssemblyReference.cache
